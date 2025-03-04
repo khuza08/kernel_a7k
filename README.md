@@ -21,13 +21,14 @@ This branch is for building MM/7.x based ROMs kernel.
         (for dt2w-enabled builds)
 
 ### Credits:
-  - tanish2k09 (me lol. Ma git Ma rulz)
+  - tanish2k09 (him source lol. him git Ma rulz)
   - rohantaneja (one reckless boi... Also did a tiny contribution to project. Only gave the whole source base lmao)
   - xakep1993 (his N-port from Jiayu S3)
   - daniel_hk (his N-bringup for aio_otfp)
   - GSandeep96 (his pocket_mod, promixity fixes and Smart Gestures)
   - Compilers United (adeveloper79, aryankedare, tanish2k09, aswin)
   - Varun Chitre (Varun.chitre15 @ xda-developers)
+  - Huza (Me noob sarz, plz dond bully me)
   
 ### Misc Credits:
   - Those who made ThunderX governor (Poison wasn't possible without it)
